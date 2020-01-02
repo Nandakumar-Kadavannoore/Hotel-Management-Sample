@@ -17,6 +17,15 @@ using Client apps or commend line as CURL commend.
 
 ## Usage or functionality
 The following functionality are provided as now
+```sh
+1. Add a record
+
+2. Delete a record or records by a key-value pair
+
+3. Find all the records which contain a particular value
+
+4. Should be able to select particular fields while finding a record(by default it should return all the fields)
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
