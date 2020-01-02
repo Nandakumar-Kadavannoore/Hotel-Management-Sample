@@ -1,6 +1,6 @@
 # Simple NOSQL database using file.
 
-A simple NOSQL database using file using java. Simple project to demonstrate the storing of input data in form of JSON in an file.
+A simple NOSQL database using file using java. Simple project to demonstrate the storing of input data in form of JSON in a file.
 
 ## Technologies used
 ```sh
@@ -13,7 +13,9 @@ Maven(Built tool)
 
 Import project as maven in any Java based IDE. To try at local run the main application class.
 For checking each feature, We exposed functionality as RESTful Web series. So you can try hitting
-using Client apps or commend line as CURL commend.
+using client apps or as CURL commend.
+[How to Use curl](https://www.baeldung.com/curl-rest)
+
 
 ## Usage or functionality
 The following functionality are provided as now
