@@ -42,7 +42,7 @@ The following functionality are provided as now
 5. Get all records by value - GET - http://localhost:8080/record/value/{value}
 6. Get record by Id or - GET - http://localhost:8080/{recordId}
 ```
-For more information see [controller] (https://github.com/Nandakumar-Kadavannoore/Simple-Json-Processor/blob/develop/src/main/java/com/example/processor/com/example/processor/controller/ProcessorController.java)
+For more information see [controller](https://github.com/Nandakumar-Kadavannoore/Simple-Json-Processor/blob/develop/src/main/java/com/example/processor/com/example/processor/controller/ProcessorController.java)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
