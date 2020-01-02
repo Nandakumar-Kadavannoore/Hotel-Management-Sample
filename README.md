@@ -15,7 +15,7 @@ Import project as maven in any Java based IDE. To try at local run the main appl
 For checking each feature, We exposed functionality as RESTful Web series. So you can try hitting
 using client apps or as CURL commend.<br />
 <br />
-[How to Use curl](https://www.baeldung.com/curl-rest)
+[How to use curl](https://www.baeldung.com/curl-rest)
 <br />
 Base URL - http://localhost:8080/
 
@@ -32,7 +32,16 @@ The following functionality are provided as now
 4. Should be able to select particular fields while finding a record(by default it should return all the fields)
 ```
 
-## Expose functionality
+## Exposed functionality
+
+```sh
+1. Add a record - POST -  http://localhost:8080/
+2. Delete record by key value pair - DELETE - http://localhost:8080/{key}/{value}
+3. Get all records - GET - http://localhost:8080/
+4. Delete a record by id - DELETE - http://localhost:8080/{recordId}
+5. Get all records by value - GET - http://localhost:8080/record/value/{value}
+6. Get record by Id or - GET - http://localhost:8080/{recordId}
+```
 
 
 ## Contributing
