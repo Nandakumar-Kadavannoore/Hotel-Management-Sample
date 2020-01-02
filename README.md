@@ -16,6 +16,8 @@ For checking each feature, We exposed functionality as RESTful Web series. So yo
 using client apps or as CURL commend.<br />
 <br />
 [How to Use curl](https://www.baeldung.com/curl-rest)
+<br />
+Base URL - http://localhost:8080/
 
 
 ## Usage or functionality
@@ -29,6 +31,9 @@ The following functionality are provided as now
 
 4. Should be able to select particular fields while finding a record(by default it should return all the fields)
 ```
+
+## Expose functionality
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
