@@ -9,7 +9,7 @@ Spring Boot(Java based framework)
 Maven(Built tool)
 ```
 
-## Installation or local setup`
+## Installation or local setup
 
 Import project as maven in any Java based IDE. To try at local run the main application class.
 For checking each feature, We exposed functionality as RESTful Web series. So you can try hitting
