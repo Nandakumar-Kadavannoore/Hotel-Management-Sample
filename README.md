@@ -14,6 +14,7 @@ Maven(Built tool)
 Import project as maven in any Java based IDE. To try at local run the main application class.
 For checking each feature, We exposed functionality as RESTful Web series. So you can try hitting
 using client apps or as CURL commend.<br />
+<br />
 [How to Use curl](https://www.baeldung.com/curl-rest)
 
 
